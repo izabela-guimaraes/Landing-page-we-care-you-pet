@@ -17,7 +17,7 @@
 
 
 <br>
-<a href="https://izabela-guimaraes.github.io/Landing-page-we-care-you-pet/" 
+<a href="https://izaguimaraes-pet-shopping.netlify.app/" 
 target="blank"> See the application working! </a>
 
 
