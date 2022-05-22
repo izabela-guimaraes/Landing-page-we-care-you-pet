@@ -18,7 +18,7 @@
 
 <br>
 <a href="https://izabela-guimaraes.github.io/Landing-page-we-care-you-pet/" 
-target="blank"> See the application working </a>
+target="blank"> See the application working! </a>
 
 
 <h4>To see another project <a href="https://github.com/izabela-guimaraes/PlayStation-Store" 
