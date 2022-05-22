@@ -2,7 +2,7 @@
 
 
 <h3>Final result:</h3>
-<img src="./result.png" alt="Application result" width="400em">
+<img src="./result01.png" alt="Application result" width="400em">
 
 <br>
 <br>
