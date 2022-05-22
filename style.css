@@ -81,23 +81,22 @@ p {
         display: block;
     }
     img {
-        width: 354px;
-        height: 317px;  
+        width: 294px;
+        height: 267px;  
         margin: 0 auto;
         align-items: center;
-        margin-top: 100px;
-        margin-bottom: 100px;
+        margin-top: 80px;
     }
     div{
         width: 368px;
         align-items: center;
-        margin: 0 auto;
+        margin: 0 auto -90px auto;
     }
     h1{
         margin-top: 60px;
         margin: 0 auto;
         align-items: center;
-        font-size: 75px;
+        font-size: 55px;
         margin-top: 65px;
     }
     h3 , button{
@@ -107,9 +106,7 @@ p {
         margin-bottom: 30px;
 
     }
-    nav, p{
+    nav, p , title{
         display: none;
-    }
-
-    
+    } 
 }
